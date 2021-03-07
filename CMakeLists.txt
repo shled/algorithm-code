@@ -9,8 +9,10 @@ set(CMAKE_CXX_COMPILER g++)
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 
 set(LEETCODE_PROBLEMS
-# No.0509 Fibonacci Number
-fibonacci_number
+    # No.0509 Fibonacci Number
+    fibonacci_number
+    # No.0322 Coin Change
+    coin_change
 )
 
 foreach(problem ${LEETCODE_PROBLEMS})

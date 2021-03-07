@@ -5,4 +5,5 @@ algorithm code
 
 | No.  | Title | Difficulty |
 | ---- | ----- | ---------- |
+|  322 | Coin Change | Medium |
 |  509 | Fibonacci Number | Easy |
