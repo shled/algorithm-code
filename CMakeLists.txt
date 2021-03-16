@@ -13,6 +13,8 @@ set(LEETCODE_PROBLEMS
     permutations
     # No.0051 N-Queens
     n_queens
+    # No.0111 Minimum Depth of Binary Tree
+    minimum_depth_of_binary_tree
     # No.0509 Fibonacci Number
     fibonacci_number
     # No.0322 Coin Change

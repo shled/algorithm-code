@@ -7,5 +7,6 @@ algorithm code
 | ---- | ----- | ---------- |
 |   46 | Permutations | Medium |
 |   51 | N-Queens | Hard |
+|  111 | Minimum Depth of Binary Tree | Easy |
 |  322 | Coin Change | Medium |
 |  509 | Fibonacci Number | Easy |
