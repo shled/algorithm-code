@@ -11,6 +11,8 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 set(LEETCODE_PROBLEMS
     # No.0046 Permutations
     permutations
+    # No.0051 N-Queens
+    n_queens
     # No.0509 Fibonacci Number
     fibonacci_number
     # No.0322 Coin Change
