@@ -19,6 +19,8 @@ set(LEETCODE_PROBLEMS
     fibonacci_number
     # No.0322 Coin Change
     coin_change
+    # No.0752 Open the Lock
+    open_the_lock
 )
 
 foreach(problem ${LEETCODE_PROBLEMS})

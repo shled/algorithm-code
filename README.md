@@ -10,3 +10,4 @@ algorithm code
 |  111 | Minimum Depth of Binary Tree | Easy |
 |  322 | Coin Change | Medium |
 |  509 | Fibonacci Number | Easy |
+|  752 | Open the Lock | Medium |
