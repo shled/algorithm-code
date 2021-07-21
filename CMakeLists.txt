@@ -15,6 +15,8 @@ set(LEETCODE_PROBLEMS
     n_queens
     # No.0111 Minimum Depth of Binary Tree
     minimum_depth_of_binary_tree
+    # No.0215 Kth Largest Element in an Array
+    kth_largest_element_in_an_array
     # No.0509 Fibonacci Number
     fibonacci_number
     # No.0322 Coin Change
