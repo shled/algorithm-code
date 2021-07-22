@@ -23,6 +23,8 @@ set(LEETCODE_PROBLEMS
     coin_change
     # No.0347 Top K Frequent Elements
     top_k_frequent_elements
+    # No.0704 Binary Search
+    binary_search
     # No.0752 Open the Lock
     open_the_lock
 )
