@@ -21,6 +21,8 @@ set(LEETCODE_PROBLEMS
     fibonacci_number
     # No.0322 Coin Change
     coin_change
+    # No.0347 Top K Frequent Elements
+    top_k_frequent_elements
     # No.0752 Open the Lock
     open_the_lock
 )
