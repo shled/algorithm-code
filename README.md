@@ -5,6 +5,7 @@ algorithm code
 
 | No.  | Title | Difficulty |
 | ---- | ----- | ---------- |
+|   34 | Find First and Last Position of Element in Sorted Array | Medium |
 |   46 | Permutations | Medium |
 |   51 | N-Queens | Hard |
 |  111 | Minimum Depth of Binary Tree | Easy |

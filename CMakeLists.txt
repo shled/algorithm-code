@@ -9,6 +9,8 @@ set(CMAKE_CXX_COMPILER g++)
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 
 set(LEETCODE_PROBLEMS
+    # No.0034 Find First and Last Position of Element in Sorted Array
+    find_first_and_last_position_of_element_in_sorted_array
     # No.0046 Permutations
     permutations
     # No.0051 N-Queens
