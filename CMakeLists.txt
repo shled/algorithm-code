@@ -33,6 +33,8 @@ set(LEETCODE_PROBLEMS
     binary_search
     # No.0752 Open the Lock
     open_the_lock
+    # No.0876 Middle of the Linked List
+    middle_of_the_linked_list
 )
 
 foreach(problem ${LEETCODE_PROBLEMS})

@@ -17,3 +17,4 @@ algorithm code
 |  509 | Fibonacci Number | Easy |
 |  704 | Binary Search | Easy |
 |  752 | Open the Lock | Medium |
+|  876 | Middle of the Linked List | Easy |
