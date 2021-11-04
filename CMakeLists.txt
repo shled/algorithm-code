@@ -19,6 +19,8 @@ set(LEETCODE_PROBLEMS
     minimum_depth_of_binary_tree
     # No.0141 Linked List Cycle
     linked_list_cycle
+    # No.0142 Linked List Cycle II
+    linked_list_cycle_ii
     # No.0215 Kth Largest Element in an Array
     kth_largest_element_in_an_array
     # No.0509 Fibonacci Number

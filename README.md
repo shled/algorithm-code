@@ -10,6 +10,7 @@ algorithm code
 |   51 | N-Queens | Hard |
 |  111 | Minimum Depth of Binary Tree | Easy |
 |  141 | Linked List Cycle | Easy |
+|  142 | Linked List Cycle II | Medium |
 |  215 | Kth Largest Element in an Array | Medium |
 |  322 | Coin Change | Medium |
 |  347 | Top K Frequent Elements | Medium |
