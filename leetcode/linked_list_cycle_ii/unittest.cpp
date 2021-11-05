@@ -29,7 +29,7 @@ ListNode* build_linked_list(const vector<int>& values, int pos) {
     return head;
 }
 
-TEST(LEETCODE, linked_list_cycle) {
+TEST(LEETCODE, linked_list_cycle_ii) {
     Solution solution;
 
     ASSERT_EQ(solution.detectCycle(build_linked_list(vector<int>{3, 2, 0, -4}, 1))->val, 2);

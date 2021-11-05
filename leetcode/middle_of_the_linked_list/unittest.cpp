@@ -21,7 +21,7 @@ ListNode* build_linked_list(const vector<int>& values) {
     return head;
 }
 
-TEST(LEETCODE, linked_list_cycle) {
+TEST(LEETCODE, middle_of_the_linked_list) {
     Solution solution;
 
     ASSERT_EQ(solution.middleNode(build_linked_list(vector<int>{1, 2, 3, 4, 5}))->val, 3);
