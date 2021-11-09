@@ -12,6 +12,7 @@ algorithm code
 |  111 | Minimum Depth of Binary Tree | Easy |
 |  141 | Linked List Cycle | Easy |
 |  142 | Linked List Cycle II | Medium |
+|  167 | Two Sum II - Input Array Is Sorted | Easy |
 |  215 | Kth Largest Element in an Array | Medium |
 |  322 | Coin Change | Medium |
 |  347 | Top K Frequent Elements | Medium |
