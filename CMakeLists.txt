@@ -31,6 +31,8 @@ set(LEETCODE_PROBLEMS
     fibonacci_number
     # No.0322 Coin Change
     coin_change
+    # No.0344 Reverse String
+    reverse_string
     # No.0347 Top K Frequent Elements
     top_k_frequent_elements
     # No.0704 Binary Search
